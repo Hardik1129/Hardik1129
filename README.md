@@ -69,14 +69,6 @@ Currently learning:
 I'm currently strengthening my skills in **backend development, cloud computing, DevOps practices, and Data Structures & Algorithms** while building practical projects.
 ```
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hardik1129&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik1129&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 # 🤝 Let's Connect
 
