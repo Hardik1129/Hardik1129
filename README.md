@@ -18,15 +18,15 @@ I'm passionate about building practical, scalable applications and exploring **b
 ---
 
 ## 🛠️ Technical Skills
-**Languages:** Java, Python  
-**Frontend:** HTML, CSS, JavaScript  
-**Frameworks:** Django (REST APIs, ORM, MVT Pattern), Flask, Django REST Framework  
-**Databases:** MySQL, SQLite — Relational Schema Design, CRUD, Indexing, SQL Joins  
-**Machine Learning:** NumPy, Pandas, Scikit-learn  
-**Cloud & DevOps:** AWS (EC2, S3), GitHub Actions (CI/CD), Docker (Basics), Linux CLI  
-**Tools:** Git & GitHub, VS Code, Postman (API Testing), IntelliJ IDEA  
-**CS Fundamentals:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, REST API Design  
-**Soft Skills:** Collaborative Teamwork, Problem-solving, Effective Communication, Fast Learner
+* Languages : Java, Python  
+* Frontend : HTML, CSS, JavaScript  
+* Frameworks : Django (REST APIs, ORM, MVT Pattern), Flask, Django REST Framework  
+* Databases : MySQL, SQLite — Relational Schema Design, CRUD, Indexing, SQL Joins  
+* Machine Learning : NumPy, Pandas, Scikit-learn  
+* Cloud & DevOps : AWS (EC2, S3), GitHub Actions (CI/CD), Docker (Basics), Linux CLI  
+* Tools : Git & GitHub, VS Code, Postman (API Testing), IntelliJ IDEA  
+* CS Fundamentals : Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, REST API Design  
+* Soft Skill : Collaborative Teamwork, Problem-solving, Effective Communication, Fast Learner
 ---
 
 # 📚 Certifications & Learning
