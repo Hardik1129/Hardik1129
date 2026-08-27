@@ -18,65 +18,15 @@ I'm passionate about building practical, scalable applications and exploring **b
 ---
 
 ## 🛠️ Technical Skills
-
-
-# 🚀 Featured Projects
-
-## 💰 Expense Tracker Web App
-
-**Tech Stack:** `Python` `Django` `SQLite` `HTML` `CSS` `GitHub Actions` `AWS EC2` `AWS S3`
-
-A full-stack personal finance application designed to help users manage and visualize their expenses.
-
-### Key Features
-
-* 🔐 User authentication with login and registration
-* ➕ Add, update, categorize and manage expenses
-* 📊 Monthly spending summaries and dashboard
-* 🗄️ Relational database design using SQLite
-* ⚙️ Django ORM for database interactions
-* 🔄 GitHub Actions CI pipeline for automated testing
-* ☁️ Deployed on AWS EC2
-* 📦 AWS S3 configured for static asset storage
-
----
-
-## 🔗 URL Shortener API
-
-**Tech Stack:** `Python` `Django REST Framework` `SQLite` `Postman` `Docker`
-
-A production-style REST API that converts long URLs into short codes and provides basic click analytics.
-
-### Key Features
-
-* 🔗 Generate short URLs from long URLs
-* ↪️ Redirect short URLs to original destinations
-* 📈 Track total click counts
-* 📅 Store URL creation information
-* 🧪 API testing using Postman
-* 🐳 Dockerized for consistent development and deployment environments
-* 🏗️ RESTful API architecture
-
----
-
-## 🎓 Student Result Management System
-
-**Tech Stack:** `Java` `MySQL` `JDBC` `OOP`
-
-A Java-based console application for managing student records, subjects and grade calculations.
-
-### Key Features
-
-* 👨‍🎓 Student record management
-* 📚 Subject and grade management
-* ➕ Add student records
-* ✏️ Update student information
-* 🔍 Search student data
-* 🗑️ Delete records
-* 🗄️ MySQL database connectivity using JDBC
-* 🧱 Applied Object-Oriented Programming principles
-* ⚠️ Exception handling for reliable application behavior
-
+**Languages:** Java, Python  
+**Frontend:** HTML, CSS, JavaScript  
+**Frameworks:** Django (REST APIs, ORM, MVT Pattern), Flask, Django REST Framework  
+**Databases:** MySQL, SQLite — Relational Schema Design, CRUD, Indexing, SQL Joins  
+**Machine Learning:** NumPy, Pandas, Scikit-learn  
+**Cloud & DevOps:** AWS (EC2, S3), GitHub Actions (CI/CD), Docker (Basics), Linux CLI  
+**Tools:** Git & GitHub, VS Code, Postman (API Testing), IntelliJ IDEA  
+**CS Fundamentals:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, REST API Design  
+**Soft Skills:** Collaborative Teamwork, Problem-solving, Effective Communication, Fast Learner
 ---
 
 # 📚 Certifications & Learning
